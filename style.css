@@ -3,3 +3,10 @@ body {
   background-color: lightblue;
 }
 
+.circular-image{
+width:150px;
+height150px;
+border-radius:50%;
+border:2px solid #333;
+border-fit:cover;
+}
